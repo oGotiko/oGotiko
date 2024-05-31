@@ -1,4 +1,4 @@
-## Hi there 👋
+# Olá, eu sou oGotiko 👋
 
 <!--
 **oGotiko/oGotiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
